@@ -1,0 +1,17 @@
+body{
+    color:white;
+    background-color:rgb(61, 51, 57);
+    font-family: fantasy;
+}
+
+h2{
+    color:goldenrod;
+
+}
+.gre{
+    color:pink;
+}
+h1{
+    font-size:100px;
+    margin-bottom: -20px;
+}
